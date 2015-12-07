@@ -1,0 +1,72 @@
+body {
+    background-color: #d0e4fe;
+     background-image: url("new_year_background.png");
+}
+
+h1 {
+    text-align: center;
+    	text-shadow: 1px 1px 1px #ccc;
+    		font-family: 'Abril Fatface', cursive; 
+    		font-weight: 800;
+}
+
+h2 { 
+	font-family: 'Abril Fatface', cursive; 
+	text-align: center; 
+}
+h3 { 
+	background-color: #d0e4fe;
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 1px #ccc;
+
+}
+h4 { 
+	text-align: center;
+
+
+}
+
+p {
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    font-size: 20px;
+	text-align: center;
+}
+img.spain {
+    display: block;
+     width: 550px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto }
+
+    div.navbar-header{
+
+    	font-family: 'Abril Fatface', cursive; 
+    }
+
+
+
+
+.post-container {
+    margin: 20px 20px 0 0;  
+    border: 5px solid #333;
+    overflow: auto;
+    font-family: 'Abril Fatface', cursive;
+}
+.post-thumb {
+    float: left
+}
+.post-thumb img {
+    display: block
+}
+.post-content {
+    margin-left: 210px
+}
+.post-title {
+	background-color: #8b2252;
+    font-size: 200%
+}
+
+.author{
+		text-align: right;
+}
